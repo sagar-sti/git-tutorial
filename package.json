@@ -1,0 +1,22 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "git tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagar-sti/git-tutorial.git"
+  },
+  "author": "Sagar patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagar-sti/git-tutorial/issues"
+  },
+  "homepage": "https://github.com/sagar-sti/git-tutorial#readme",
+  "dependencies": {
+    "firebase": "^7.17.1"
+  }
+}
